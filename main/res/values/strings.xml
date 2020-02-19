@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kovalev_19.02.20_2</string>
+    <string-array name="mouth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+    </string-array>
+</resources>
